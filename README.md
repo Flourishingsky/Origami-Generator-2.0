@@ -3,4 +3,4 @@ This software is developed based on an inverse origami design model that we prop
 
 For the first version, please refer to the link [https://github.com/Flourishingsky/Inverse-Origami-Design-Model](https://github.com/Flourishingsky/Inverse-Origami-Design-Model)
 
-**This released version (2.0) supports saving the flat crease pattern as independent DXF files for laser machine and exporting the 3D model of the origami into STL files.**
+**This released version (2.0) is updated based on MATLAB R2022a App Designer, which supports saving the flat crease pattern as independent DXF files for laser machine and exporting the 3D model of the origami into STL files.**
